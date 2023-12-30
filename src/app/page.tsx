@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Typography } from "@mui/material";
+import Typography from "@mui/material/Typography";
 
 export const metadata: Metadata = {
   title: "Home",
